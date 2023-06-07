@@ -11,3 +11,4 @@ Link : https://stats-preview-card-component-yv.netlify.app/
 
 2). Mobile Design : 
 
+![mobile view](https://github.com/vishalyv252/stats-preview-card-component/assets/105093020/faf628c1-27c6-4b95-b6b7-27184de4ca4d)
