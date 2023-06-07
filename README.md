@@ -7,7 +7,7 @@ Link : https://stats-preview-card-component-yv.netlify.app/
 
 1). Desktop Design :
 
-
+![desktop view](https://github.com/vishalyv252/stats-preview-card-component/assets/105093020/9a7c4192-3f3b-465c-b8f7-e9ce0ee3df09)
 
 2). Mobile Design : 
 
